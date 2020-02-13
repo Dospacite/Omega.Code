@@ -12,3 +12,6 @@ extern motor MoveLeft;
 
 extern motor LifterRight;
 extern motor LifterLeft;
+
+extern motor ArmRight;
+extern motor ArmLeft;
